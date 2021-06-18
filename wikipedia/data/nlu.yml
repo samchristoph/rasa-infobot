@@ -1,0 +1,56 @@
+version: "2.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - lets go
+    - sup
+    - yo
+    - yo yo
+    - yo yo yo
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: input_POI
+  examples: |
+    - [serena williams](POI)
+    - [Serena Williams](POI)
+    - [novak djokovic](POI)
+    - [Novak Djokovic](POI)
+
+- intent: input_question
+  examples: |
+    - who is [Serena Williams](people)    
+    - who was [Serena Williams](people)
+    - who is she?
+    - who is she
+    - who was she?
+    - who was she
+    - when was she born?
+    - when was she born
+    - who is [Novak Djokovic](people)
+    - who was [Novak Djokovic](people)
+    - who is he?
+    - who is he
+    - who was he?
+    - who was he
+    - when was he born?
+    - when was he born
+
+
+
+    
+    
+    
+    
+    
