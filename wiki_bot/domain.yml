@@ -18,9 +18,12 @@ responses:
 
 entities:
   - POI
+  - person
   - people
-  - facts
+  - fact
   - interrogative
+  - personal_info
+  - professional_info
 
 slots:
   POI:
@@ -29,10 +32,10 @@ slots:
   people:
     type: list
     influence_conversation: false
-  facts:
+  fact:
     type: list
     influence_conversation: false
-  interrogatives:
+  interrogative:
     type: categorical
     values:
       - who

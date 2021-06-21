@@ -40,11 +40,11 @@ class ActionFindPOI(Action):
                 # knowledge = p.Path(f"data/wikipedia/{name}.txt").read_text().split("\n")
                 if os.path.isfile(f"data/wikipedia/{filename}.txt"):
                     dispatcher.utter_message(text="search.end")
-                    dispatcher.utter_message(text=f"{name} was found.")
+                    dispatcher.utter_message(text=f"{name} was found")
                     return self.start_story(self, "continue")
                 else:
                     dispatcher.utter_message(text="search.end")
-                    dispatcher.utter_message(text=f"{name} was not found in our database.")
+                    dispatcher.utter_message(text=f"{name} was not found in our database")
                     return []
         
         dispatcher.utter_message(text="search.end")
@@ -54,29 +54,62 @@ class ActionFindPOI(Action):
 
 
 class ActionFactSearch(Action):
-
-    knowledge = p.Path(r'data/wikipedia/serena_williams.txt').read_text().split("\n")
+    
+    knowledge = ""
+    
     def name(self) -> Text:
         return  "action_fact_search"
     
     def run(self, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         dispatcher.utter_message(text="search.start")
-        slot_value = tracker.get_slot("POI")
+        POI = tracker.get_slot("POI")
+        
         for blob in tracker.latest_message['entities']:
-            dispatcher.utter_message(text=f"{tracker.latest_message}")
-            if blob['entity'] == 'POI' or blob['entity'] == 'interrogative':
-                name = blob['value']
-                if name in self.knowledge:
-                    dispatcher.utter_message(text="search.end")
-                    dispatcher.utter_message(text=f"{name} was found")
-                    return []
+            if blob['entity'] == 'POI':
+                POI = blob['value']
+                filename = ((POI).replace(' ', '_')).lower()
+                if os.path.isfile(f"data/wikipedia/{filename}.txt"):
+                    self.knowledge = p.Path(f"data/wikipedia/{filename}.txt").read_text().split("\n")
+                    break
                 else:
-                    dispatcher.utter_message(text="search.end")
-                    dispatcher.utter_message(text=f"{name} was not found")
+                    dispatcher.utter_message(text=f"{name} was not found in our database")
                     return []
         
+        if len(self.knowledge) == 0:
+            if type(POI) == str:
+                filename = ((POI).replace(' ', '_')).lower()
+                if os.path.isfile(f"data/wikipedia/{filename}.txt"):
+                    self.knowledge = p.Path(f"data/wikipedia/{filename}.txt").read_text().split("\n")
+                else:
+                    dispatcher.utter_message(text=f"{name} was not found in our database")
+                    return []
+            else:
+                dispatcher.utter_message(text=f"{name} was not found in our database")
+                return []
+
+        message = ""
+        for blob in tracker.latest_message['entities']:
+            # dispatcher.utter_message(text=f"{tracker.latest_message}")
+            # dispatcher.utter_message(text=f"{blob['value']}")
+            if blob['entity'] == 'person' \
+            or blob['entity'] == 'people' \
+            or blob['entity'] == 'personal_info' \
+            or blob['entity'] == 'professional_info' \
+            or blob['entity'] == 'interrogative':
+                name = blob['value']
+                for idx in range(len(self.knowledge)):
+                    if name.lower() in self.knowledge[idx].lower():
+                        message += f"{self.knowledge[idx]}\n"
+                        dispatcher.utter_message(text=f"Idx: {idx}, Found '{name}': Y")
+                    else:
+                        dispatcher.utter_message(text=f"Idx: {idx}, Found '{name}': N")
+        
         dispatcher.utter_message(text="search.end")
-        dispatcher.utter_message(text="failed to locate information")
+        if len(message):
+            dispatcher.utter_message(text=message)
+        else:
+            dispatcher.utter_message(text="failed to locate information")
+        
         return []
 
 

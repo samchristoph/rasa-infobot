@@ -52,40 +52,42 @@ nlu:
     - [how](interrogative) is 
     - [how](interrogative) was 
     - [how](interrogative) did 
-    - [who](interrogative) is her father #
-    - [who](interrogative) was her mentor
-    - [who](interrogative) did she beat
-    - [what](interrogative) is her date of birth
-    - [what](interrogative) are her parents names
-    - [what](interrogative) did she do it
-    - [where](interrogative) is her house
-    - [where](interrogative) was she born
-    - [where](interrogative) did she live
-    - [when](interrogative) is her birthday
-    - [when](interrogative) was she born
-    - [when](interrogative) did he die
-    - [why](interrogative) is he famous
-    - [why](interrogative) was he playing
-    - [why](interrogative) did he do it
-    - [how](interrogative) is he doing
-    - [how](interrogative) was his early life
-    - [how](interrogative) did he start his career
-    - [who](interrogative) is [Serena Williams](people)    
-    - [who](interrogative) was [Serena Williams](people)
-    - [who](interrogative) is she?
-    - [who](interrogative) is she
-    - [who](interrogative) was she?
-    - [who](interrogative) was she
-    - [when](interrogative) was she born?
-    - [when](interrogative) was she born
-    - [who](interrogative) is [Novak Djokovic](people)
-    - [who](interrogative) was [Novak Djokovic](people)
-    - [who](interrogative) is he?
-    - [who](interrogative) is he
-    - [who](interrogative) was he?
-    - [who](interrogative) was he
-    - [when](interrogative) was he born?
-    - [when](interrogative) was he born
+    - [who](interrogative) is [her](person) [father](person) #
+    - [who](interrogative) was [her](person) [mentor](person)
+    - [who](interrogative) did [she](person) [beat](professional_info)
+    - [what](interrogative) is [her](person) [date of birth](personal_info)
+    - [what](interrogative) are [her](person) [parents](people) names
+    - [what](interrogative) did [she](person) do it
+    - [where](interrogative) is [her](person) house
+    - [where](interrogative) was [she](person) [born](personal_info)
+    - [where](interrogative) did [she](person) [live](personal_info)
+    - [where](interrogative) does [she](person) [live](personal_info)
+    - [when](interrogative) is [her](person) [birthday](personal_info)
+    - [when](interrogative) was [she](person) [born](personal_info)
+    - [when](interrogative) did [he](person) [die](personal_info)
+    - [why](interrogative) is [he](person) [famous](professional_info)
+    - [why](interrogative) was [he](person) [playing](professional_info)
+    - [why](interrogative) did [he](person) [play](professional_info)
+    - [why](interrogative) did [he](person) do it
+    - [how](interrogative) is [he](person) doing
+    - [how](interrogative) was [his](person) early [life](personal_info)
+    - [how](interrogative) did [he](person) start [his](person) [career](professional_info)
+    - [who](interrogative) is [Serena Williams](person)    
+    - [who](interrogative) was [Serena Williams](person)
+    - [who](interrogative) is [she](person)?
+    - [who](interrogative) is [she](person)
+    - [who](interrogative) was [she](person)?
+    - [who](interrogative) was [she](person)
+    - [when](interrogative) was [she](person) [born](personal_info)?
+    - [when](interrogative) was [she](person) [born](personal_info)
+    - [who](interrogative) is [Novak Djokovic](person)
+    - [who](interrogative) was [Novak Djokovic](person)
+    - [who](interrogative) is [he](person)?
+    - [who](interrogative) is [he](person)
+    - [who](interrogative) was [he](person)?
+    - [who](interrogative) was [he](person)
+    - [when](interrogative) was [he](person) [born](personal_info)?
+    - [when](interrogative) was [he](person) [born](personal_info)
 
 
 
