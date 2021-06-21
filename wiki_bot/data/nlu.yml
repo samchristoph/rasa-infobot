@@ -72,16 +72,16 @@ nlu:
     - [how](interrogative) is [he](person) doing
     - [how](interrogative) was [his](person) early [life](personal_info)
     - [how](interrogative) did [he](person) start [his](person) [career](professional_info)
-    - [who](interrogative) is [Serena Williams](person)    
-    - [who](interrogative) was [Serena Williams](person)
+    - [who](interrogative) is [Serena Williams](POI)    
+    - [who](interrogative) was [Serena Williams](POI)
     - [who](interrogative) is [she](person)?
     - [who](interrogative) is [she](person)
     - [who](interrogative) was [she](person)?
     - [who](interrogative) was [she](person)
     - [when](interrogative) was [she](person) [born](personal_info)?
     - [when](interrogative) was [she](person) [born](personal_info)
-    - [who](interrogative) is [Novak Djokovic](person)
-    - [who](interrogative) was [Novak Djokovic](person)
+    - [who](interrogative) is [Novak Djokovic](POI)
+    - [who](interrogative) was [Novak Djokovic](POI)
     - [who](interrogative) is [he](person)?
     - [who](interrogative) is [he](person)
     - [who](interrogative) was [he](person)?

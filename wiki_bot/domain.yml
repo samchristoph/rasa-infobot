@@ -10,7 +10,8 @@ responses:
   utter_greeting:
   - text: "Greetings!"
   utter_query_1:
-  - text: "Who would you like to know about?"
+  - text: "Please ask me a question about a person, place, or thing."
+#  - text: "Who would you like to know about?"
   utter_query_2:
   - text: "What would you like to know about {POI}?"
   utter_answer_1:
@@ -47,7 +48,7 @@ slots:
 
 actions:
   - action_fact_search
-  - action_find_POI
+#  - action_find_POI
 
 session_config:
   session_expiration_time: 60

@@ -10,6 +10,7 @@ import os
 from typing import Any, Text, Dict, List
 import rasa_sdk.events as rasaEvents
 from rasa_sdk import Action, Tracker
+# from rasa_sdk.events import SlotSet
 from rasa_sdk.executor import CollectingDispatcher
 
 '''
@@ -62,36 +63,42 @@ class ActionFactSearch(Action):
     
     def run(self, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         dispatcher.utter_message(text="search.start")
-        POI = tracker.get_slot("POI")
+        # POI = "" # tracker.get_slot("POI")
         
         for blob in tracker.latest_message['entities']:
             if blob['entity'] == 'POI':
                 POI = blob['value']
                 filename = ((POI).replace(' ', '_')).lower()
                 if os.path.isfile(f"data/wikipedia/{filename}.txt"):
-                    self.knowledge = p.Path(f"data/wikipedia/{filename}.txt").read_text().split("\n")
-                    break
+                    self.knowledge = p.Path(f"data/wikipedia/{filename}.txt").read_text('utf-8').split("\n")
                 else:
-                    dispatcher.utter_message(text=f"{name} was not found in our database")
+                    dispatcher.utter_message(text=f"{POI} was not found in our database")
                     return []
         
+        if len(self.knowledge) == 0:
+            dispatcher.utter_message(text=f"{POI} was not found in our database")
+            return []
+        
+        '''
         if len(self.knowledge) == 0:
             if type(POI) == str:
                 filename = ((POI).replace(' ', '_')).lower()
                 if os.path.isfile(f"data/wikipedia/{filename}.txt"):
                     self.knowledge = p.Path(f"data/wikipedia/{filename}.txt").read_text().split("\n")
                 else:
-                    dispatcher.utter_message(text=f"{name} was not found in our database")
+                    dispatcher.utter_message(text=f"{POI} was not found in our database")
                     return []
             else:
-                dispatcher.utter_message(text=f"{name} was not found in our database")
+                dispatcher.utter_message(text="the request failed")
                 return []
+        '''
 
         message = ""
         for blob in tracker.latest_message['entities']:
             # dispatcher.utter_message(text=f"{tracker.latest_message}")
             # dispatcher.utter_message(text=f"{blob['value']}")
             if blob['entity'] == 'person' \
+            or blob['entity'] == 'POI' \
             or blob['entity'] == 'people' \
             or blob['entity'] == 'personal_info' \
             or blob['entity'] == 'professional_info' \
