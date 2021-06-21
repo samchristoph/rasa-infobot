@@ -1,0 +1,96 @@
+version: "2.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - heyo
+    - hey hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - mornin
+    - afternoon
+    - hey there
+    - lets go
+    - sup
+    - yo
+    - yo yo
+    - yo yo yo
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: input_POI
+  examples: |
+    - [serena williams](POI)
+    - [Serena Williams](POI)
+    - [novak djokovic](POI)
+    - [Novak Djokovic](POI)
+
+- intent: input_question
+  examples: |
+    - [who](interrogative) is #
+    - [who](interrogative) was 
+    - [who](interrogative) did 
+    - [what](interrogative) is 
+    - [what](interrogative) was 
+    - [what](interrogative) did 
+    - [where](interrogative) is 
+    - [where](interrogative) was 
+    - [where](interrogative) did 
+    - [when](interrogative) is 
+    - [when](interrogative) was 
+    - [when](interrogative) did 
+    - [why](interrogative) is 
+    - [why](interrogative) was 
+    - [why](interrogative) did 
+    - [how](interrogative) is 
+    - [how](interrogative) was 
+    - [how](interrogative) did 
+    - [who](interrogative) is her father #
+    - [who](interrogative) was her mentor
+    - [who](interrogative) did she beat
+    - [what](interrogative) is her date of birth
+    - [what](interrogative) are her parents names
+    - [what](interrogative) did she do it
+    - [where](interrogative) is her house
+    - [where](interrogative) was she born
+    - [where](interrogative) did she live
+    - [when](interrogative) is her birthday
+    - [when](interrogative) was she born
+    - [when](interrogative) did he die
+    - [why](interrogative) is he famous
+    - [why](interrogative) was he playing
+    - [why](interrogative) did he do it
+    - [how](interrogative) is he doing
+    - [how](interrogative) was his early life
+    - [how](interrogative) did he start his career
+    - [who](interrogative) is [Serena Williams](people)    
+    - [who](interrogative) was [Serena Williams](people)
+    - [who](interrogative) is she?
+    - [who](interrogative) is she
+    - [who](interrogative) was she?
+    - [who](interrogative) was she
+    - [when](interrogative) was she born?
+    - [when](interrogative) was she born
+    - [who](interrogative) is [Novak Djokovic](people)
+    - [who](interrogative) was [Novak Djokovic](people)
+    - [who](interrogative) is he?
+    - [who](interrogative) is he
+    - [who](interrogative) was he?
+    - [who](interrogative) was he
+    - [when](interrogative) was he born?
+    - [when](interrogative) was he born
+
+
+
+    
+    
+    
+    
+    

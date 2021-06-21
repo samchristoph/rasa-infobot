@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['wikipedia\\data\\nlu.yml', 'wikipedia\\data\\stories.yml', 'wikipedia\\data\\rules.yml', 'wikipedia\\domain.yml']
+recent_files = []
 
