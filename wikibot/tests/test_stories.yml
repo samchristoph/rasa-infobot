@@ -1,0 +1,23 @@
+#### This file contains tests to evaluate that your bot behaves as expected.
+#### If you want to learn more, please see the docs: https://rasa.com/docs/rasa/testing-your-assistant
+
+stories:
+
+- story: reply path 1
+  steps:
+  - user: | 
+      data request
+    intent: ask
+  - action: answer
+
+- story: reply path 2
+  steps:
+  - user: |
+      hello
+    intent: greet
+  - action: prompt
+  - user: |
+      who, what, when, where, why, how
+  - intent: ask
+  - action: answer
+  

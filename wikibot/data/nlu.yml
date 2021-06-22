@@ -1,0 +1,98 @@
+version: "2.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - heyo
+    - hey hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - mornin
+    - afternoon
+    - hey there
+    - lets go
+    - sup
+    - yo
+    - yo yo
+    - yo yo yo
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: input_POI
+  examples: |
+    - [serena williams](POI)
+    - [Serena Williams](POI)
+    - [novak djokovic](POI)
+    - [Novak Djokovic](POI)
+
+- intent: input_question
+  examples: |
+    - [who](interrogative) is #
+    - [who](interrogative) was 
+    - [who](interrogative) did 
+    - [what](interrogative) is 
+    - [what](interrogative) was 
+    - [what](interrogative) did 
+    - [where](interrogative) is 
+    - [where](interrogative) was 
+    - [where](interrogative) did 
+    - [when](interrogative) is 
+    - [when](interrogative) was 
+    - [when](interrogative) did 
+    - [why](interrogative) is 
+    - [why](interrogative) was 
+    - [why](interrogative) did 
+    - [how](interrogative) is 
+    - [how](interrogative) was 
+    - [how](interrogative) did 
+    - [who](interrogative) is [her](person) [father](person) #
+    - [who](interrogative) was [her](person) [mentor](person)
+    - [who](interrogative) did [she](person) [beat](professional_info)
+    - [what](interrogative) is [her](person) [date of birth](personal_info)
+    - [what](interrogative) are [her](person) [parents](people) names
+    - [what](interrogative) did [she](person) do it
+    - [where](interrogative) is [her](person) house
+    - [where](interrogative) was [she](person) [born](personal_info)
+    - [where](interrogative) did [she](person) [live](personal_info)
+    - [where](interrogative) does [she](person) [live](personal_info)
+    - [when](interrogative) is [her](person) [birthday](personal_info)
+    - [when](interrogative) was [she](person) [born](personal_info)
+    - [when](interrogative) did [he](person) [die](personal_info)
+    - [why](interrogative) is [he](person) [famous](professional_info)
+    - [why](interrogative) was [he](person) [playing](professional_info)
+    - [why](interrogative) did [he](person) [play](professional_info)
+    - [why](interrogative) did [he](person) do it
+    - [how](interrogative) is [he](person) doing
+    - [how](interrogative) was [his](person) early [life](personal_info)
+    - [how](interrogative) did [he](person) start [his](person) [career](professional_info)
+    - [who](interrogative) is [Serena Williams](POI)    
+    - [who](interrogative) was [Serena Williams](POI)
+    - [who](interrogative) is [she](person)?
+    - [who](interrogative) is [she](person)
+    - [who](interrogative) was [she](person)?
+    - [who](interrogative) was [she](person)
+    - [when](interrogative) was [she](person) [born](personal_info)?
+    - [when](interrogative) was [she](person) [born](personal_info)
+    - [who](interrogative) is [Novak Djokovic](POI)
+    - [who](interrogative) was [Novak Djokovic](POI)
+    - [who](interrogative) is [he](person)?
+    - [who](interrogative) is [he](person)
+    - [who](interrogative) was [he](person)?
+    - [who](interrogative) was [he](person)
+    - [when](interrogative) was [he](person) [born](personal_info)?
+    - [when](interrogative) was [he](person) [born](personal_info)
+
+
+
+    
+    
+    
+    
+    

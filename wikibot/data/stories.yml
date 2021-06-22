@@ -1,0 +1,33 @@
+version: "2.0"
+
+stories:
+
+- story: get answer 1
+  steps:
+  - intent: greet
+  - action: utter_greeting
+#  - action: utter_query_1
+#  - intent: input_POI
+  - action: action_fact_search
+#  - action: action_find_POI
+
+#- story: get answer 2
+#  steps:
+#  - intent: continue
+#  - action: utter_query_2
+#  - intent: input_question
+#  - action: utter_answer_1
+#  - action: action_fact_search
+
+#- story: get answer 3
+#  steps:
+#  - intent: greet
+#  - action: utter_greeting
+#  - action: utter_query_1
+#  - intent: input_POI
+#  - action: action_find_POI
+#  - action: utter_query_2
+#  - intent: input_question
+#  - action: utter_answer_1
+#  - action: action_fact_search
+
