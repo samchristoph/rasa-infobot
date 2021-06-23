@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = []
+recent_files = ['wiki_bot\\domain.yml', 'wiki_bot\\data\\rules.yml', 'wiki_bot\\data\\stories.yml', 'wiki_bot\\data\\nlu.yml', 'wiki_bot\\actions\\actions.py', 'wiki_bot\\data\\wikipedia\\serena_williams.txt', 'wiki_bot\\config.yml', 'wiki_bot\\data\\wikipedia\\novak_djokovic.txt']
 

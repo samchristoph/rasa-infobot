@@ -64,11 +64,19 @@ class ActionFactSearch(Action):
     def run(self, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         dispatcher.utter_message(text="search.start")
         # POI = "" # tracker.get_slot("POI")
-        
+
         for blob in tracker.latest_message['entities']:
             if blob['entity'] == 'POI':
-                POI = blob['value']
-                filename = ((POI).replace(' ', '_')).lower()
+                players = p.Path(f"data/statistics/player_list_full.txt").read_text('utf-8').split("\n")
+                for idx in range(len(players)):
+                    name = blob['value'].lower()
+                    if players[idx].lower() == name:
+                        dispatcher.utter_message(text=f"'{name}' exists in our system")
+
+        for blob in tracker.latest_message['entities']:
+            if blob['entity'] == 'POI':
+                POI = blob['value'].lower()
+                filename = ((POI).replace(' ', '_'))
                 if os.path.isfile(f"data/wikipedia/{filename}.txt"):
                     self.knowledge = p.Path(f"data/wikipedia/{filename}.txt").read_text('utf-8').split("\n")
                 else:
@@ -76,27 +84,12 @@ class ActionFactSearch(Action):
                     return []
         
         if len(self.knowledge) == 0:
-            dispatcher.utter_message(text=f"{POI} was not found in our database")
+            dispatcher.utter_message(text=f"the request failed")
             return []
         
-        '''
-        if len(self.knowledge) == 0:
-            if type(POI) == str:
-                filename = ((POI).replace(' ', '_')).lower()
-                if os.path.isfile(f"data/wikipedia/{filename}.txt"):
-                    self.knowledge = p.Path(f"data/wikipedia/{filename}.txt").read_text().split("\n")
-                else:
-                    dispatcher.utter_message(text=f"{POI} was not found in our database")
-                    return []
-            else:
-                dispatcher.utter_message(text="the request failed")
-                return []
-        '''
 
         message = ""
-        for blob in tracker.latest_message['entities']:
-            # dispatcher.utter_message(text=f"{tracker.latest_message}")
-            # dispatcher.utter_message(text=f"{blob['value']}")
+        for blob in tracker.latest_message['entities']:            
             if blob['entity'] == 'person' \
             or blob['entity'] == 'POI' \
             or blob['entity'] == 'people' \
@@ -109,7 +102,8 @@ class ActionFactSearch(Action):
                         message += f"{self.knowledge[idx]}\n"
                         dispatcher.utter_message(text=f"Idx: {idx}, Found '{name}': Y")
                     else:
-                        dispatcher.utter_message(text=f"Idx: {idx}, Found '{name}': N")
+                        pass
+                        # dispatcher.utter_message(text=f"Idx: {idx}, Found '{name}': N")
         
         dispatcher.utter_message(text="search.end")
         if len(message):
