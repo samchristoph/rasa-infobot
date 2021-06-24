@@ -13,45 +13,26 @@ from rasa_sdk import Action, Tracker
 # from rasa_sdk.events import SlotSet
 from rasa_sdk.executor import CollectingDispatcher
 
-'''
-class ActionRestart(Action):
-    
-    def name(self) -> Text:
-        return "action_restart"
-    
-    async def run(self, dispatcher, tracker: Tracker, domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-'''
 
-class ActionFindPOI(Action):
-
+class ActionFindName(Action):
+       
     def name(self) -> Text:
-        return  "action_find_POI"
-    
-    @staticmethod
-    def start_story(self, story_intent):
-        return [rasaEvents.ActionExecuted("action_listen")] + [rasaEvents.UserUttered("/" + story_intent, {"intent": {"name": story_intent, "confidence": 1.0}, "entities": {}})]
+        return  "action_find_name"
     
     def run(self, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         dispatcher.utter_message(text="search.start")
+        players = p.Path(f"data/statistics/player_list_full.txt").read_text('utf-8').split("\n")
         for blob in tracker.latest_message['entities']:
-            # dispatcher.utter_message(text=f"{tracker.latest_message}")
-            if blob['entity'] == 'POI':
-                name = blob['value']
-                filename = ((name).replace(' ', '_')).lower()
-                # knowledge = p.Path(f"data/wikipedia/{name}.txt").read_text().split("\n")
-                if os.path.isfile(f"data/wikipedia/{filename}.txt"):
-                    dispatcher.utter_message(text="search.end")
-                    dispatcher.utter_message(text=f"{name} was found")
-                    return self.start_story(self, "continue")
-                else:
-                    dispatcher.utter_message(text="search.end")
-                    dispatcher.utter_message(text=f"{name} was not found in our database")
-                    return []
+            if blob['entity'] == 'name':
+                for idx in range(len(players)):
+                    name = blob['value'].lower()
+                    cur_name = players[idx].lower()
+                    print(cur_name, " <==> ", name)
+                    if cur_name == name:
+                        dispatcher.utter_message(text=f"'{name}' exists in our system")
         
         dispatcher.utter_message(text="search.end")
-        dispatcher.utter_message(text="failed to locate information")
         return []
-                    
 
 
 class ActionFactSearch(Action):
@@ -63,18 +44,17 @@ class ActionFactSearch(Action):
     
     def run(self, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         dispatcher.utter_message(text="search.start")
-        # POI = "" # tracker.get_slot("POI")
-
+        players = p.Path(f"data/statistics/player_list_full.txt").read_text('utf-8').split("\n")
         for blob in tracker.latest_message['entities']:
-            if blob['entity'] == 'POI':
-                players = p.Path(f"data/statistics/player_list_full.txt").read_text('utf-8').split("\n")
+            if blob['entity'] == 'name':
                 for idx in range(len(players)):
                     name = blob['value'].lower()
-                    if players[idx].lower() == name:
+                    cur_name = players[idx].lower()
+                    print(cur_name, " <==> ", name)
+                    if cur_name == name:
                         dispatcher.utter_message(text=f"'{name}' exists in our system")
-
         for blob in tracker.latest_message['entities']:
-            if blob['entity'] == 'POI':
+            if blob['entity'] == 'name':
                 POI = blob['value'].lower()
                 filename = ((POI).replace(' ', '_'))
                 if os.path.isfile(f"data/wikipedia/{filename}.txt"):
@@ -91,10 +71,9 @@ class ActionFactSearch(Action):
         message = ""
         for blob in tracker.latest_message['entities']:            
             if blob['entity'] == 'person' \
-            or blob['entity'] == 'POI' \
-            or blob['entity'] == 'people' \
-            or blob['entity'] == 'personal_info' \
-            or blob['entity'] == 'professional_info' \
+            or blob['entity'] == 'name' \
+            or blob['entity'] == 'pronoun' \
+            or blob['entity'] == 'keyword' \
             or blob['entity'] == 'interrogative':
                 name = blob['value']
                 for idx in range(len(self.knowledge)):

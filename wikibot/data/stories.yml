@@ -2,14 +2,34 @@ version: "2.0"
 
 stories:
 
-- story: get answer 1
+- story: input greeting, general user
   steps:
-  - intent: greet
+  - intent: input_greeting
   - action: utter_greeting
-#  - action: utter_query_1
-#  - intent: input_POI
+  - action: utter_prompt
+
+- story: input question existence, user inquiry regarding a POI relevance
+  steps:
+  - intent: input_question_existence_1
+    entities:
+    - name: "serena williams"
+  - action: action_find_name
+
+- story: input question who, direct question about POI
+  steps:
+  - intent: input_question_who_direct_primary_1
   - action: action_fact_search
-#  - action: action_find_POI
+
+- story: input question who, direct question about someone in POI background
+  steps:
+  - intent: input_question_who_direct_secondary_1
+  - action: action_fact_search
+
+
+
+
+
+
 
 #- story: get answer 2
 #  steps:

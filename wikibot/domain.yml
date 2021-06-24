@@ -1,40 +1,66 @@
 version: "2.0"
 
 intents:
-  - continue
-  - greet
-  - input_POI
-  - input_question
+  - input_greeting
+  - input_question_existence_1
+  - input_question_who_direct_primary_1
+  - input_question_who_direct_secondary_1
+  - input_question_who_indirect_1
+  - input_question_what_1
+  - input_question_where_1
+  - input_question_when_1
+  - input_question_why_1
+  - input_question_how_1
+  - input_question_existence_2
+  - input_question_who_direct_primary_2
+  - input_question_who_direct_secondary_2
+  - input_question_who_indirect_2
+  - input_question_what_2
+  - input_question_where_2
+  - input_question_when_2
+  - input_question_why_2
+  - input_question_how_2
+
 
 responses:
   utter_greeting:
   - text: "Greetings!"
-  utter_query_1:
+  - text: "Hi!"
+  - text: "Hello!"
+  - text: "Wasssssssap!"
+  utter_prompt:
   - text: "Please ask me a question about a person, place, or thing."
-#  - text: "Who would you like to know about?"
-  utter_query_2:
-  - text: "What would you like to know about {POI}?"
-  utter_answer_1:
-  - text: "Output: "
+  - text: "What is your question?"
+
 
 entities:
-  - POI
+  - name
   - person
-  - people
+  - pronoun
   - fact
   - interrogative
-  - personal_info
-  - professional_info
+  - keyword
+  - existence
 
 slots:
-  POI:
+  #name:
+  #  type: text
+  #  influence_conversation: true
+  person:
     type: text
-    influence_conversation: false
-  people:
-    type: list
-    influence_conversation: false
-  fact:
-    type: list
+    influence_conversation: true
+  pronoun:
+    type: categorical
+    values:
+      - he
+      - she
+      - him
+      - her
+      - they
+      - them
+      - their
+  keyword:
+    type: text
     influence_conversation: false
   interrogative:
     type: categorical
@@ -47,8 +73,8 @@ slots:
       - how
 
 actions:
+  - action_find_name
   - action_fact_search
-#  - action_find_POI
 
 session_config:
   session_expiration_time: 60
