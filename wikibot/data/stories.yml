@@ -12,42 +12,45 @@ stories:
   steps:
   - intent: input_question_existence_1
     entities:
-    - name: "serena williams"
+    - name: "Serena Williams"
   - action: action_find_name
 
 - story: input question who, direct question about POI
   steps:
   - intent: input_question_who_direct_primary_1
+    entities:
+    - name: "serena williams"
+    - name: "novak djokovic"
+    - name: "sachia vickery"
+    - name: "thiago alves"
   - action: action_fact_search
 
-- story: input question who, direct question about someone in POI background
+#- story: input question who, direct question about someone in POI background
+#  steps:
+#  - intent: input_question_who_direct_secondary_1
+#  - action: action_fact_search
+
+
+
+
+
+
+
+
+
+- story: interactive_story_1
   steps:
-  - intent: input_question_who_direct_secondary_1
+  - intent: input_question_who_direct_primary_1
+    entities:
+    - interrogative: who
+    - name: novak djokovic
+  - slot_was_set:
+    - interrogative: who
   - action: action_fact_search
-
-
-
-
-
-
-
-#- story: get answer 2
-#  steps:
-#  - intent: continue
-#  - action: utter_query_2
-#  - intent: input_question
-#  - action: utter_answer_1
-#  - action: action_fact_search
-
-#- story: get answer 3
-#  steps:
-#  - intent: greet
-#  - action: utter_greeting
-#  - action: utter_query_1
-#  - intent: input_POI
-#  - action: action_find_POI
-#  - action: utter_query_2
-#  - intent: input_question
-#  - action: utter_answer_1
-#  - action: action_fact_search
-
+  - intent: input_question_who_direct_primary_1
+    entities:
+    - interrogative: who
+    - name: ryan elizabeth
+  - slot_was_set:
+    - interrogative: who
+  - action: action_fact_search

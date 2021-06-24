@@ -1,0 +1,6 @@
+version: "2.0"
+nlu:
+- intent: input_question_who_direct_primary_1
+  examples: |
+    - [who](interrogative) is [novak djokovic](name)
+    - [who](interrogative) is [ryan elizabeth](name)

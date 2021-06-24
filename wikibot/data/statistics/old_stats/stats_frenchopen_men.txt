@@ -1,0 +1,126 @@
+YEAR	WINNER	RUNNER-UP	SCORE
+2021	Novak Djokovic (SRB)	Stefanos Tsitsipas (GRE)	6-7(6), 2-6, 6-3, 6-2, 6-4
+2020	Rafael Nadal (ESP)	Novak Djokovic (SRB)	6-0, 6-2, 7-5
+2019	Rafael Nadal (ESP)	Dominic Thiem (AUT)	6-3, 5-7, 6-1, 6-1
+2018	Rafael Nadal (ESP)	Dominic Thiem (AUT)	6-4, 6-3, 6-2
+2017	Rafael Nadal (ESP)	Stan Wawrinka (SUI)	6-2, 6-3, 6-1
+2016	Novak Djokovic (SRB)	Andy Murray (GBR)	3-6, 6-1, 6-2, 6-4
+2015	Stan Wawrinka (SUI)	Novak Djokovic (SRB)	4-6, 6-4, 6-3, 6-4
+2014	Rafael Nadal (ESP)	Novak Djokovic (SRB)	3-6, 7-5, 6-2, 6-4
+2013	Rafael Nadal (ESP)	David Ferrer (ESP)	6-3, 6-2, 6-3
+2012	Rafael Nadal (ESP)	Novak Djokovic (SRB)	6-4, 6-3, 2-6, 7-5
+2011	Rafael Nadal (ESP)	Roger Federer (SUI)	7-5, 7-6(3), 5-7, 6-1
+2010	Rafael Nadal (ESP)	Robin Soderling (SWE)	6-4, 6-2, 6-4
+2009	Roger Federer (SUI)	Robin Soderling (SWE)	6-1, 7-6(1), 6-4
+2008	Rafael Nadal (ESP)	Roger Federer (SUI)	6-1, 6-3, 6-0
+2007	Rafael Nadal (ESP)	Roger Federer (SUI)	6-3, 4-6, 6-3, 6-4
+2006	Rafael Nadal (ESP)	Roger Federer (SUI)	1-6, 6-1, 6-4, 7-6(4)
+2005	Rafael Nadal (ESP)	Mariano Puerta (ARG)	6-7(6), 6-3, 6-1, 7-5
+2004	Gaston Gaudio (ARG)	Guillermo Coria (ARG)	0-6, 3-6, 6-4, 6-1, 8-6
+2003	Juan Carlos Ferrero (ESP)	Martin Verkerk (NED)	6-1, 6-3, 6-2
+2002	Albert Costa (ESP)	Juan Carlos Ferrero (ESP)	6-1, 6-0, 4-6, 6-3
+2001	Gustavo Kuerten (BRA)	Alex Corretja (ESP)	6-7(3), 7-5, 6-2, 6-0
+2000	Gustavo Kuerten (BRA)	Magnus Norman (SWE)	6-2, 6-3, 2-6, 7-6(6)
+1999	Andre Agassi (USA)	Andrei Medvedev (UKR)	1-6, 2-6, 6-4, 6-3, 6-4
+1998	Carlos Moya (ESP)	Alex Corretja (ESP)	6-3, 7-5, 6-3
+1997	Gustavo Kuerten (BRA)	Sergi Bruguera (ESP)	6-3, 6-4, 6-2
+1996	Yevgeny Kafelnikov (RUS)	Michael Stich (GER)	7-6(4), 7-5, 7-6(4)
+1995	Thomas Muster (AUT)	Michael Chang (USA)	7-5, 6-2, 6-4
+1994	Sergi Bruguera (ESP)	Alberto Berasategui (ESP)	6-3, 7-5, 2-6, 6-1
+1993	Sergi Bruguera (ESP)	Jim Courier (USA)	6-4, 2-6, 6-2, 3-6, 6-3
+1992	Jim Courier (USA)	Petr Korda (TCH)	7-5, 6-2, 6-1
+1991	Jim Courier (USA)	Andre Agassi (USA)	3-6, 6-4, 2-6, 6-1, 6-4
+1990	Andres Gomez (ECU)	Andre Agassi (USA)	6-3, 2-6, 6-4, 6-4
+1989	Michael Chang (USA)	Stefan Edberg (SWE)	6-1, 3-6, 4-6, 6-4, 6-2
+1988	Mats Wilander (SWE)	Henri Leconte (FRA)	7-5, 6-2, 6-1
+1987	Ivan Lendl (TCH)	Mats Wilander (SWE)	7-5, 6-2, 3-6, 7-6(3)
+1986	Ivan Lendl (TCH)	Mikael Pernfors (SWE)	6-3, 6-2, 6-4
+1985	Mats Wilander (SWE)	Ivan Lendl (TCH)	3-6, 6-4, 6-2, 6-2
+1984	Ivan Lendl (TCH)	John McEnroe (USA)	3-6, 2-6, 6-4, 7-5, 7-5
+1983	Yannick Noah (FRA)	Mats Wilander (SWE)	6-2, 7-5, 7-6(3)
+1982	Mats Wilander (SWE)	Guillermo Vilas (ARG)	1-6, 7-6(6), 6-0, 6-4
+1981	Bjorn Borg (SWE)	Ivan Lendl (TCH)	6-1, 4-6, 6-2, 3-6, 6-1
+1980	Bjorn Borg (SWE)	Vitas Gerulaitis (USA)	6-4, 6-1, 6-2
+1979	Bjorn Borg (SWE)	Victor Pecci (PAR)	6-3, 6-1, 6-7(6), 6-4
+1978	Bjorn Borg (SWE)	Guillermo Vilas (ARG)	6-1, 6-1, 6-3
+1977	Guillermo Vilas (ARG)	Brian Gottfried (USA)	6-0, 6-3, 6-0
+1976	Adriano Panatta (ITA)	Harold Solomon (USA)	6-1, 6-4, 4-6, 7-6(3)
+1975	Bjorn Borg (SWE)	Guillermo Vilas (ARG)	6-2, 6-3, 6-4
+1974	Bjorn Borg (SWE)	Manuel Orantes (ESP)	2-6, 6-7(1), 6-0, 6-1, 6-1
+1973	Ilie Nastase (ROU)	Nikola Pilic (YUG)	6-3, 6-3, 6-0
+1972	Andres Gimeno (ESP)	Patrick Proisy (FRA)	4-6, 6-3, 6-1, 6-1
+1971	Jan Kodes (TCH)	Ilie Nastase (ROU)	8-6, 6-2, 2-6, 7-5
+1970	Jan Kodes (TCH)	Zeljko Franulovic (YUG)	6-2, 6-4, 6-0
+1969	Rod Laver (AUS)	Ken Rosewall (AUS)	6-4, 6-3, 6-4
+1968	Ken Rosewall (AUS)	Rod Laver (AUS)	6-3, 6-1, 2-6, 6-2
+1967	Roy Emerson (AUS)	Tony Roche (AUS)	6-1, 6-4, 2-6, 6-2
+1966	Tony Roche (AUS)	Istvan Gulyas (HUN)	6-1, 6-4, 7-5
+1965	Fred Stolle (AUS)	Tony Roche (AUS)	3-6, 6-0, 6-2, 6-3
+1964	Manuel Santana (ESP)	Nicola Pietrangeli (ITA)	6-3, 6-1, 4-6, 7-5
+1963	Roy Emerson (AUS)	Pierre Darmon (FRA)	3-6, 6-1, 6-4, 6-4
+1962	Rod Laver (AUS)	Roy Emerson (AUS)	3-6, 2-6, 6-3, 9-7, 6-2
+1961	Manuel Santana (ESP)	Nicola Pietrangeli (ITA)	4-6, 6-1, 3-6, 6-0, 6-2
+1960	Nicola Pietrangeli (ITA)	Luis Ayala (CHI)	3-6, 6-3, 6-4, 4-6, 6-3
+1959	Nicola Pietrangeli (ITA)	Ian Vermaak (RSA)	3-6, 6-3, 6-4, 6-1
+1958	Mervyn Rose (AUS)	Luis Ayala (CHI)	6-3, 6-4, 6-4
+1957	Sven Davidson (SWE)	Herbert Flam (USA)	6-3, 6-4, 6-4
+1956	Lew Hoad (AUS)	Sven Davidson (SWE)	6-4, 8-6, 6-3
+1955	Tony Trabert (USA)	Sven Davidson (SWE)	2-6, 6-1, 6-4, 6-2
+1954	Tony Trabert (USA)	Arthur Larsen (USA)	6-4, 7-5, 6-1
+1953	Ken Rosewall (AUS)	Vic Seixas (USA)	6-3, 6-4, 1-6, 6-2
+1952	Jaroslav Drobny (EGY)	Frank Sedgman (AUS)	6-2, 6-0, 3-6, 6-4
+1951	Jaroslav Drobny (EGY)	Eric Sturgess (RSA)	6-3, 6-3, 6-3
+1950	Budge Patty (USA)	Jaroslav Drobny (EGY)	6-1, 6-2, 3-6, 5-7, 7-5
+1949	Frank Parker (USA)	Budge Patty (USA)	6-3, 1-6, 6-1, 6-4
+1948	Frank Parker (USA)	Jaroslav Drobny (TCH)	6-4, 7-5, 5-7, 8-6
+1947	Jozsef Asboth (HUN)	Eric Sturgess (RSA)	8-6, 7-5, 6-4
+1946	Marcel Bernard (FRA)	Jaroslav Drobny (TCH)	3-6, 2-6, 6-1, 6-4, 6-3
+1945	Yvon Petra (FRA)	Bernard Destremau (FRA)	7-5, 6-4, 6-2
+1944	Yvon Petra (FRA)	Henri Cochet (FRA)	
+1943	Yvon Petra (FRA)	Henri Cochet (FRA)	
+1942	Bernard Destremau (FRA)	Marcel Bernard (FRA)	
+1941	Bernard Destremau (FRA)	Henri Cochet (FRA)	8-6, 6-2
+1939	Donald McNeill (USA)	Robert Riggs (USA)	7-5, 6-0, 6-3
+1938	Donald Budge (USA)	Roderich Menzel (TCH)	6-3, 6-2, 6-4
+1937	Henner Henkel (GER)	Bunny Austin (GBR)	6-1, 6-4, 6-3
+1936	Gottfried von Cramm (GER)	Fred Perry (GBR)	6-0, 2-6, 6-2, 2-6, 6-0
+1935	Fred Perry (GBR)	Gottfried von Cramm (GER)	6-3, 3-6, 6-1, 6-3
+1934	Gottfried von Cramm (GER)	Jack Crawford (AUS)	6-4, 7-9, 3-6, 7-5, 6-3
+1933	Jack Crawford (AUS)	Henri Cochet (FRA)	8-6, 6-1, 6-3
+1932	Henri Cochet (FRA)	Giorgio de Stefani (ITA)	6-0, 6-4, 4-6, 6-3
+1931	Jean Borotra (FRA)	Christian Boussus (FRA)	2-6, 6-4, 7-5, 6-4
+1930	Henri Cochet (FRA)	William Tilden (USA)	3-6, 8-6, 6-3, 6-1
+1929	Rene Lacoste (FRA)	Jean Borotra (FRA)	6-3, 2-6, 6-0, 2-6, 8-6
+1928	Henri Cochet (FRA)	Rene Lacoste (FRA)	5-7, 6-3, 6-1, 6-3
+1927	Rene Lacoste (FRA)	William Tilden (USA)	6-4, 4-6, 5-7, 6-3, 11-9
+1926	Henri Cochet (FRA)	Rene Lacoste (FRA)	6-2, 6-4, 6-3
+1925	Rene Lacoste (FRA)	Jean Borotra (FRA)	7-5, 6-1, 6-4
+1924	Jean Borotra (FRA)	Rene Lacoste (FRA)	7-5, 6-4, 0-6, 5-7, 6-2
+1923	Francois Blanchy (FRA)	Max Decugis (FRA)	1-6, 6-2, 6-0, 6-2
+1922	Henri Cochet (FRA)	Jean Samazeuilh (FRA)	8-6, 6-3, 7-5
+1921	Jean Samazeuilh (FRA)	Andre Gobert (FRA)	6-3, 6-3, 2-6, 7-5
+1920	Andre Gobert (FRA)	Max Decugis (FRA)	6-3, 3-6, 1-6, 6-2, 6-3
+1914	Max Decugis (FRA)	Jean Samazeuilh (FRA)	3-6, 6-1, 6-4, 6-4
+1913	Max Decugis (FRA)	Georges Gault (FRA)	
+1912	Max Decugis (FRA)	Andre Gobert (FRA)	
+1911	Andre Gobert (FRA)	Maurice Germot (FRA)	6-1, 8-6, 7-5
+1910	Maurice Germot (FRA)	Francois Blanchy (FRA)	6-1, 6-3, 4-6, 6-3
+1909	Max Decugis (FRA)	Maurice Germot (FRA)	3-6, 2-6, 6-4, 6-4, 6-4
+1908	Max Decugis (FRA)	Maurice Germot (FRA)	6-2, 6-1, 3-6, 10-8
+1907	Max Decugis (FRA)	Robert Wallet (FRA)	
+1906	Maurice Germot (FRA)	Max Decugis (FRA)	5-7, 6-3, 6-4, 1-6, 6-3
+1905	Maurice Germot (FRA)	Andre Vacherot (FRA)	
+1904	Max Decugis (FRA)	Andre Vacherot (FRA)	6-1, 9-7, 6-8, 6-1
+1903	Max Decugis (FRA)	Andre Vacherot (FRA)	6-3, 6-2
+1902	Michel Vacherot (FRA)	Max Decugis (FRA)	6-4, 6-2
+1901	Andre Vacherot (FRA)	Paul Lebreton (FRA)	
+1900	Paul Ayme (FRA)	Andre Prevost (FRA)	6-3, 6-0
+1899	Paul Ayme (FRA)	Paul Lebreton (FRA)	9-7, 3-6, 6-3
+1898	Paul Ayme (FRA)	Paul Lebreton (FRA)	5-7, 6-1, 6-2
+1897	Paul Ayme (FRA)	Francky Wardan (BRI)	4-6, 6-4, 6-2
+1896	Andre Vacherot (FRA)	Gerard Brosselin (FRA)	6-1, 7-5
+1895	Andre Vacherot (FRA)	Laurent Riboulet (FRA)	9-7, 6-2
+1894	Andre Vacherot (FRA)	Gerard Brosselin (FRA)	1-6, 6-3, 6-3
+1893	Laurent Riboulet (FRA)	Jean Schopfer (FRA)	6-3, 6-3
+1892	Jean Schopfer (FRA)	F. L. Fassitt (BRI[i])	6-2, 1-6, 6-2
+1891	H. Briggs (BRI)	P. Baigneres (FRA)	6-3, 6-4

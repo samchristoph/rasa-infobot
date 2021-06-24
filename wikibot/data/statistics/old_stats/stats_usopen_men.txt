@@ -1,0 +1,141 @@
+YEAR	WINNER	RUNNER-UP	SCORE
+2020	Dominic Thiem (AUT)	Alexander Zverev (GER)	2-6, 4-6, 6-4, 6-3, 7-6(6)
+2019	Rafael Nadal (ESP)	Daniil Medvedev (RUS)	7-5, 6-3, 5-7, 4-6, 6-4
+2018	Novak Djokovic (SRB)	Juan Martin Del Potro (ARG)	6-3, 7-6(4), 6-3
+2017	Rafael Nadal (ESP)	Kevin Anderson (RSA)	6-3, 6-3, 6-4
+2016	Stan Wawrinka (SUI)	Novak Djokovic (SRB)	6-7(1), 6-4, 7-5, 6-3
+2015	Novak Djokovic (SRB)	Roger Federer (SUI)	6-4, 5-7, 6-4, 6-4
+2014	Marin Cilic (Cro)	Kei Nishikori (Jpn)	6-3, 6-3, 6-3
+2013	Rafael Nadal (ESP)	Novak Djokovic (SRB)	6-2, 3-6, 6-4, 6-1
+2012	Andy Murray (GBR)	Novak Djokovic (SRB)	7-6, 7-5, 2-6, 3-6, 6-2
+2011	Novak Djokovic (SRB)	Rafael Nadal (ESP)	6-2, 6-4, 6-7, 6-1
+2010	Rafael Nadal (ESP)	Novak Djokovic (SRB)	6-4, 5-7, 6-4, 6-2
+2009	Juan Martin del Potro (ARG)	Roger Federer (SUI)	3-6, 7-6, 4-6, 7-6, 6-2
+2008	Roger Federer (SUI)	Andy Murray (GBR)	6-2, 7-5, 6-2
+2007	Roger Federer (SUI)	Novak Djokovic (SRB)	7-6, 7-6, 6-4
+2006	Roger Federer (SUI)	Andy Roddick (USA)	6-2, 4-6, 7-5, 6-1
+2005	Roger Federer (SUI)	Andre Agassi (USA)	6-3, 2-6, 7-6, 6-1
+2004	Roger Federer (SUI)	Lleyton Hewitt (AUS)	6-0, 7-6, 6-0
+2003	Andy Roddick (USA)	Juan Carlos Ferrero (ESP)	6-3, 7-6, 6-3
+2002	Pete Sampras (USA)	Andre Agassi (USA)	6-3, 6-4, 5-7, 6-4
+2001	Lleyton Hewitt (AUS)	Pete Sampras (USA)	7-6, 6-1, 6-1
+2000	Marat Safin (RUS)	Pete Sampras (USA)	6-4, 6-3, 6-3
+1999	Andre Agassi (USA)	Todd Martin (USA)	6-4, 6-7, 6-7, 6-3, 6-2
+1998	Patrick Rafter (AUS)	Mark Philippoussis (AUS)	6-3, 3-6, 6-2, 6-0
+1997	Patrick Rafter (AUS)	Greg Rusedski (GBR)	6-3, 6-2, 4-6, 7-5
+1996	Pete Sampras (USA)	Michael Chang (USA)	6-1, 6-4, 7-6
+1995	Pete Sampras (USA)	Andre Agassi (USA)	6-4, 6-3, 4-6, 7-5
+1994	Andre Agassi (USA)	Michael Stich (GER)	6-1, 7-6, 7-5
+1993	Pete Sampras (USA)	Cedric Pioline (FRA)	6-4, 6-4, 6-3
+1992	Stefan Edberg (SWE)	Pete Sampras (USA)	3-6, 6-4, 7-6, 6-2
+1991	Stefan Edberg (SWE)	Jim Courier (USA)	6-2, 6-4, 6-0
+1990	Pete Sampras (USA)	Andre Agassi (USA)	6-4, 6-3, 6-2
+1989	Boris Becker (FRG)	Ivan Lendl (TCH)	7-6, 1-6, 6-3, 7-6
+1988	Mats Wilander (SWE)	Ivan Lendl (TCH)	6-4, 4-6, 6-3, 5-7, 6-4
+1987	Ivan Lendl (TCH)	Mats Wilander (SWE)	6-7, 6-0, 7-6, 6-4
+1986	Ivan Lendl (TCH)	Miloslav Mecir (TCH)	6-4, 6-2, 6-0
+1985	Ivan Lendl (TCH)	John McEnroe (USA)	7-6, 6-3, 6-4
+1984	John McEnroe (USA)	Ivan Lendl (TCH)	6-3, 6-4, 6-1
+1983	Jimmy Connors (USA)	Ivan Lendl (TCH)	6-3, 6-7, 7-5, 6-0
+1982	Jimmy Connors (USA)	Ivan Lendl (TCH)	6-3, 6-2, 4-6, 6-4
+1981	John McEnroe (USA)	Bjorn Borg (SWE)	4-6, 6-2, 6-4, 6-3
+1980	John McEnroe (USA)	Bjorn Borg (SWE)	7-6, 6-1, 6-7, 5-7, 6-4
+1979	John McEnroe (USA)	Vitas Gerulaitis (USA)	7-5, 6-3, 6-3
+1978	Jimmy Connors (USA)	Bjorn Borg (SWE)	6-4, 6-2, 6-2
+1977	Guillermo Vilas (ARG)	Jimmy Connors (USA)	2-6, 6-3, 7-6, 6-0
+1976	Jimmy Connors (USA)	Bjorn Borg (SWE)	6-4, 3-6, 7-6, 6-4
+1975	Manuel Orantes (ESP)	Jimmy Connors (USA)	6-4, 6-3, 6-3
+1974	Jimmy Connors (USA)	Ken Rosewall (AUS)	6-1, 6-0, 6-1
+1973	John Newcombe (AUS)	Jan Kodes (TCH)	6-4, 1-6, 4-6, 6-2, 6-3
+1972	Ilie Nastase (ROU)	Arthur Ashe (USA)	3-6, 6-3, 6-7, 6-4, 6-3
+1971	Stan Smith (USA)	Jan Kodes (TCH)	3-6, 6-3, 6-2, 7-6
+1970	Ken Rosewall (AUS)	Tony Roche (AUS)	2-6, 6-4, 7-6, 6-3
+1969	Rod Laver (AUS)	Tony Roche (AUS)	7-9, 6-1, 6-2, 6-2
+1968	Arthur Ashe (USA)	Tom Okker (NED)	14-12, 5-7, 6-3, 3-6, 6-3
+1967	John Newcombe (AUS)	Clark Graebner (USA)	6-4, 6-4, 8-6
+1966	Fred Stolle (AUS)	John Newcombe (AUS)	4-6, 12-10, 6-3, 6-4
+1965	Manuel Santana (ESP)	Cliff Drysdale (RSA)	6-2, 7-9, 7-5, 6-1
+1964	Roy Emerson (AUS)	Fred Stolle (AUS)	6-4, 6-2, 6-4
+1963	Rafael Osuna (MEX)	Frank Froehling (USA)	7-5, 6-4, 6-2
+1962	Rod Laver (AUS)	Roy Emerson (AUS)	6-2, 6-4, 5-7, 6-4
+1961	Roy Emerson (AUS)	Rod Laver (AUS)	7-5, 6-3, 6-2
+1960	Neale Fraser (AUS)	Rod Laver (AUS)	6-4, 6-4, 9-7
+1959	Neale Fraser (AUS)	Alex Olmedo (USA)	6-3, 5-7, 6-2, 6-4
+1958	Ashley Cooper (AUS)	Malcolm Anderson (AUS)	6-2, 3-6, 4-6, 10-8, 8-6
+1957	Malcolm Anderson (AUS)	Ashley Cooper (AUS)	10-8, 7-5, 6-4
+1956	Ken Rosewall (AUS)	Lew Hoad (AUS)	4-6, 6-2, 6-3, 6-3
+1955	Tony Trabert (USA)	Ken Rosewall (AUS)	9-7, 6-3, 6-3
+1954	Vic Seixas (USA)	Rex Hartwig (AUS)	3-6, 6-2, 6-4, 6-4
+1953	Tony Trabert (USA)	Vic Seixas (USA)	6-3, 6-2, 6-3
+1952	Frank Sedgman (AUS)	Gardnar Mulloy (USA)	6-1, 6-2, 6-3
+1951	Frank Sedgman (AUS)	Vic Seixas (USA)	6-4, 6-1, 6-1
+1950	Arthur Larsen (USA)	Herbert Flam (USA)	6-3, 4-6, 5-7, 6-4, 6-3
+1949	Pancho Gonzales (USA)	Ted Schroeder (USA)	16-18, 2-6, 6-1, 6-2, 6-4
+1948	Pancho Gonzales (USA)	Eric Sturgess (RSA)	6-2, 6-3, 14-12
+1947	Jack Kramer (USA)	Frank Parker (USA)	4-6, 2-6, 6-1, 6-0, 6-3
+1946	Jack Kramer (USA)	Tom Brown (USA)	9-7, 6-3, 6-0
+1945	Frank Parker (USA)	Bill Talbert (USA)	14-12, 6-1, 6-2
+1944	Frank Parker (USA)	Bill Talbert (USA)	6-4, 3-6, 6-3, 6-3
+1943	Joseph Hunt (USA)	Jack Kramer (USA)	6-3, 6-8, 10-8, 6-0
+1942	Ted Schroeder (USA)	Frank Parker (USA)	8-6, 7-5, 3-6, 4-6, 6-2
+1941	Bobby Riggs (USA)	Frank Kovacs (USA)	5-7, 6-1, 6-3, 6-3
+1940	Don McNeill (USA)	Bobby Riggs (USA)	4-6, 6-8, 6-3, 6-3, 7-5
+1939	Bobby Riggs (USA)	Welby Van Horn (USA)	6-4, 6-2, 6-4
+1938	Don Budge (USA)	Gene Mako (USA)	6-3, 6-8, 6-2, 6-1
+1937	Don Budge (USA)	Gottfried von Cramm (GER)	6-1, 7-9, 6-1, 3-6, 6-1
+1936	Fred Perry (GBR)	Don Budge (USA)	2-6, 6-2, 8-6, 1-6, 10-8
+1935	Wilmer Allison (USA)	Sidney Wood (USA)	6-2, 6-2, 6-3
+1934	Fred Perry (GBR)	Wilmer Allison (USA)	6-4, 6-3, 3-6, 1-6, 8-6
+1933	Fred Perry (GBR)	Jack Crawford (AUS)	6-3, 11-13, 4-6, 6-0, 6-1
+1932	Ellsworth Vines (USA)	Henri Cochet (FRA)	6-4, 6-4, 6-4
+1931	Ellsworth Vines (USA)	George Lott (USA)	7-9, 6-3, 9-7, 7-5
+1930	John Doeg (USA)	Francis Shields (USA)	10-8, 1-6, 6-4, 16-14
+1929	Bill Tilden (USA)	Francis Hunter (USA)	3-6, 6-3, 4-6, 6-2, 6-4
+1928	Henri Cochet (FRA)	Francis Hunter (USA)	4-6, 6-4, 3-6, 7-5, 6-3
+1927	Rene Lacoste (FRA)	Bill Tilden (USA)	11-9, 6-3, 11-9
+1926	Rene Lacoste (FRA)	Jean Borotra (FRA)	6-4, 6-0, 6-4
+1925	Bill Tilden (USA)	Bill Johnston (USA)	4-6, 11-9, 6-3, 4-6, 6-3
+1924	Bill Tilden (USA)	Bill Johnston (USA)	6-1, 9-7, 6-2
+1923	Bill Tilden (USA)	Bill Johnston (USA)	6-4, 6-1, 6-4
+1922	Bill Tilden (USA)	Bill Johnston (USA)	4-6, 3-6, 6-2, 6-3, 6-4
+1921	Bill Tilden (USA)	Wallace Johnson (USA)	6-1, 6-3, 6-1
+1920	Bill Tilden (USA)	Bill Johnston (USA)	6-1, 1-6, 7-5, 5-7, 6-3
+1919	Bill Johnston (USA)	Bill Tilden (USA)	6-4, 6-4, 6-3
+1918	Robert Lindley Murray (USA)	Bill Tilden (USA)	6-3, 6-1, 7-5
+1917	Robert Lindley Murray (USA)	Nathaniel Niles (USA)	5-7, 8-6, 6-3, 6-3
+1916	Richard Norris Williams (USA)	Bill Johnston (USA)	4-6, 6-4, 0-6, 6-2, 6-4
+1915	Bill Johnston (USA)	Maurice McLoughlin (USA)	1-6, 6-0, 7-5, 10-8
+1914	Richard Norris Williams (USA)	Maurice McLoughlin (USA)	6-3, 8-6, 10-8
+1913	Maurice McLoughlin (USA)	Richard Norris Williams (USA)	6-4, 5-7, 6-3, 6-1
+1912	Maurice McLoughlin (USA)	Wallace Johnson (USA)	3-6, 2-6, 6-2, 6-4, 6-2
+1911	William Larned (USA)	Maurice McLoughlin (USA)	6-4, 6-4, 6-2
+1910	William Larned (USA)	Tom Bundy (USA)	6-1, 5-7, 6-0, 6-8, 6-1
+1909	William Larned (USA)	William Clothier (USA)	6-1, 6-2, 5-7, 1-6, 6-1
+1908	William Larned (USA)	Beals Wright (USA)	6-1, 6-2, 8-6
+1907	William Larned (USA)	Robert LeRoy (USA)	6-2, 6-2, 6-4
+1906	William Clothier (USA)	Beals Wright (USA)	6-3, 6-0, 6-4
+1905	Beals Wright (USA)	Holcombe Ward (USA)	6-2, 6-1, 11-9
+1904	Holcombe Ward (USA)	William Clothier (USA)	10-8, 6-4, 9-7
+1903	Lawrence Doherty (GBR)	William Larned (USA)	6-0, 6-3, 10-8
+1902	William Larned (USA)	Reginald Doherty (GBR)	4-6, 6-2, 6-4, 8-6
+1901	William Larned (USA)	Beals Wright (USA)	6-2, 6-8, 6-4, 6-4
+1900	Malcolm Whitman (USA)	William Larned (USA)	6-4, 1-6, 6-2, 6-2
+1899	Malcolm Whitman (USA)	Jahial Parmly Paret (USA)	6-1, 6-2, 3-6, 7-5
+1898	Malcolm Whitman (USA)	Dwight Davis (USA)	3-6, 6-2, 6-2, 6-1
+1897	Robert Wrenn (USA)	Wilberforce Eaves (GBR)	4-6, 8-6, 6-3, 2-6, 6-2
+1896	Robert Wrenn (USA)	Frederick Hovey (USA)	7-5, 3-6, 6-0, 1-6, 6-1
+1895	Frederick Hovey (USA)	Robert Wrenn (USA)	6-3, 6-2, 6-4
+1894	Robert Wrenn (USA)	Manliff Goodbody (USA)	6-8, 6-1, 6-4, 6-4
+1893	Robert Wrenn (USA)	Frederick Hovey (USA)	6-4, 3-6, 6-4, 6-4
+1892	Oliver Campbell (USA)	Frederick Hovey (USA)	7-5, 3-6, 6-3, 7-5
+1891	Oliver Campbell (USA)	Clarence Hobart (USA)	2-6, 7-5, 7-9, 6-1, 6-2
+1890	Oliver Campbell (USA)	Henry Slocum (USA)	6-2, 4-6, 6-3, 6-1
+1889	Henry Slocum (USA)	Quincy Shaw (USA)	6-3, 6-1, 4-6, 6-2
+1888	Henry Slocum (USA)	Howard Taylor (USA)	6-4, 6-1, 6-0
+1887	Richard Sears (USA)	Henry Slocum (USA)	6-1, 6-3, 6-2
+1886	Richard Sears (USA)	Robert Livingston Beeckman (USA)	4-6, 6-1, 6-3, 6-4
+1885	Richard Sears (USA)	Godfrey Brinley (USA)	6-3, 4-6, 6-0, 6-3
+1884	Richard Sears (USA)	Howard Taylor (USA)	6-0, 1-6, 6-0, 6-2
+1883	Richard Sears (USA)	James Dwight (USA)	6-2, 6-0, 9-7
+1882	Richard Sears (USA)	Clarence Clark (USA)	6-1, 6-4, 6-0
+1881	Richard Sears (USA)	William Glyn (USA)	6-0, 6-3, 6-2
