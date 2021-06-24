@@ -1,0 +1,68 @@
+
+intents:
+- input_question_who_direct_primary_1
+- input_greeting
+- input_question_existence_1
+- input_question_who_indirect_1
+- input_question_what_1
+- input_question_where_1
+- input_question_when_1
+- input_question_why_1
+- input_question_how_1
+- input_question_existence_2
+- input_question_who_direct_primary_2
+- input_question_who_direct_secondary_2
+- input_question_who_indirect_2
+- input_question_what_2
+- input_question_where_2
+- input_question_when_2
+- input_question_why_2
+- input_question_how_2
+entities:
+- existence
+- fact
+- interrogative
+- keyword
+- name
+- person
+- pronoun
+slots:
+  person:
+    type: text
+    influence_conversation: true
+  pronoun:
+    type: categorical
+    influence_conversation: true
+    values:
+    - he
+    - she
+    - him
+    - her
+    - they
+    - them
+    - their
+  keyword:
+    type: text
+    influence_conversation: false
+  interrogative:
+    type: categorical
+    influence_conversation: true
+    values:
+    - who
+    - what
+    - where
+    - when
+    - why
+    - how
+responses:
+  utter_greeting:
+  - text: Greetings!
+  - text: Hi!
+  - text: Hello!
+  - text: Wasssssssap!
+  utter_prompt:
+  - text: Please ask me a question about a person, place, or thing.
+  - text: What is your question?
+actions:
+- action_fact_search
+- action_find_name

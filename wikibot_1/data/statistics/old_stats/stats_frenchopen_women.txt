@@ -1,0 +1,120 @@
+YEAR	WINNER	RUNNER-UP	SCORE
+2021	Barbora Krejcikova (CZE)	Anastasia Pavlyuchenkova (RUS)	6-1, 2-6, 6-4
+2020	Iga Swiatek (POL)	Sofia Kenin (USA)	6-4, 6-1
+2019	Ashleigh Barty (AUS)	Marketa Vondrousova (CZE)	6-1, 6-3
+2018	Simona Halep (ROU)	Sloane Stephens (USA)	3-6, 6-4, 6-1
+2017	Jelena Ostapenko (LAT)	Simona Halep (ROU)	4-6, 6-4, 6-3
+2016	Garbine Muguruza (SPA)	Serena Williams (USA)	7-5, 6-4
+2015	Serena Williams (USA)	Lucie Safarova (CZE)	6-3, 6-7(2), 6-2
+2014	Maria Sharapova (RUS)	Simona Halep (ROM)	6-4, 6-7(5), 6-4
+2013	Serena Williams (USA)	Maria Sharapova (RUS)	6-4, 6-4
+2012	Maria Sharapova (RUS)	Sara Errani (ITA)	6-3, 6-2
+2011	Li Na (CHN)	Francesca Schiavone (ITA)	6-4, 7-6(0)
+2010	Francesca Schiavone (ITA)	Samantha Stosur (AUS)	6-4, 7-6(2)
+2009	Svetlana Kuznetsova (RUS)	Dinara Safina (RUS)	6-4, 6-2
+2008	Ana Ivanovic (SRB)	Dinara Safina (RUS)	6-4, 6-3
+2007	Justine Henin (BEL)	Ana Ivanovic (SRB)	6-1, 6-2
+2006	Justine Henin (BEL)	Svetlana Kuznetsova (RUS)	6-4, 6-4
+2005	Justine Henin (BEL)	Mary Pierce (FRA)	6-1, 6-1
+2004	Anastasia Myskina (RUS)	Elena Dementieva (RUS)	6-1, 6-2
+2003	Justine Henin (BEL)	Kim Clijsters (BEL)	6-0, 6-4
+2002	Serena Williams (USA)	Venus Williams (USA)	7-5, 6-3
+2001	Jennifer Capriati (USA)	Kim Clijsters (BEL)	1-6, 6-4, 12-10
+2000	Mary Pierce (FRA)	Conchita Martinez (ESP)	6-2, 7-5
+1999	Steffi Graf (GER)	Martina Hingis (SUI)	4-6, 7-5, 6-2
+1998	Arantxa Sanchez Vicario (ESP)	Monica Seles (USA)	7-6(5), 0-6, 6-2
+1997	Iva Majoli (CRO)	Martina Hingis (SUI)	6-4, 6-2
+1996	Steffi Graf (GER)	Arantxa Sanchez Vicario (ESP)	6-3, 6-7(4), 10-8
+1995	Steffi Graf (GER)	Arantxa Sanchez Vicario (ESP)	7-5, 4-6, 6-0
+1994	Arantxa Sanchez Vicario (ESP)	Mary Pierce (FRA)	6-4, 6-4
+1993	Steffi Graf (GER)	Mary Joe Fernandez (USA)	4-6, 6-2, 6-4
+1992	Monica Seles (YUG)	Steffi Graf (GER)	6-2, 3-6, 10-8
+1991	Monica Seles (YUG)	Arantxa Sanchez Vicario (ESP)	6-3, 6-4
+1990	Monica Seles (YUG)	Steffi Graf (FRG)	7-6(6), 6-4
+1989	Arantxa Sanchez Vicario (ESP)	Steffi Graf (FRG)	7-6(6), 3-6, 7-5
+1988	Steffi Graf (FRG)	Natalia Zvereva (URS)	6-0, 6-0
+1987	Steffi Graf (FRG)	Martina Navratilova (USA)	6-4, 4-6, 8-6
+1986	Chris Evert (USA)	Martina Navratilova (USA)	2-6, 6-3, 6-3
+1985	Chris Evert (USA)	Martina Navratilova (USA)	6-3, 6-7(4), 7-5
+1984	Martina Navratilova (USA)	Chris Evert (USA)	6-3, 6-1
+1983	Chris Evert (USA)	Mima Jausovec (YUG)	6-1, 6-2
+1982	Martina Navratilova (USA)	Andrea Jaeger (USA)	7-6, 6-1
+1981	Hana Mandlikova (TCH)	Sylvia Hanika (FRG)	6-2, 6-4
+1980	Chris Evert (USA)	Virginia Ruzici (ROU)	6-0, 6-3
+1979	Chris Evert (USA)	Wendy Turnbull (AUS)	6-2, 6-0
+1978	Virginia Ruzici (ROU)	Mima Jausovec (YUG)	6-2, 6-2
+1977	Mima Jausovec (YUG)	Florenta Mihai (ROU)	6-2, 6-7, 6-1
+1976	Sue Barker (GBR)	Renata Tomanova (TCH)	6-2, 0-6, 6-2
+1975	Chris Evert (USA)	Martina Navratilova (TCH)	2-6, 6-2, 6-1
+1974	Chris Evert (USA)	Olga Morozova (URS)	6-1, 6-2
+1973	Margaret Court (AUS)	Chris Evert (USA)	6-7, 7-6, 6-4
+1972	Billie Jean King (USA)	Evonne Goolagong Cawley (AUS)	6-3, 6-3
+1971	Evonne Goolagong Cawley (AUS)	Helen Gourlay Cawley (AUS)	6-3, 7-5
+1970	Margaret Court (AUS)	Helga Niessen Masthoff (FRG)	6-2, 6-4
+1969	Margaret Court (AUS)	Ann Haydon Jones (GBR)	6-1, 4-6, 6-3
+1968	Nancy Richey (USA)	Ann Haydon Jones (GBR)	5-7, 6-4, 6-1
+1967	Francoise Durr (FRA)	Lesley Turner Bowrey (AUS)	4-6, 6-3, 6-4
+1966	Ann Haydon Jones (GBR)	Nancy Richey Gunter (USA)	6-3, 6-1
+1965	Lesley Turner Bowrey (AUS)	Margaret Court (AUS)	6-3, 6-4
+1964	Margaret Court (AUS)	Maria Bueno (BRA)	5-7, 6-1, 6-2
+1963	Lesley Turner Bowrey (AUS)	Ann Haydon Jones (GBR)	2-6, 6-3, 7-5
+1962	Margaret Court (AUS)	Lesley Turner Bowrey (AUS)	6-3, 3-6, 7-5
+1961	Ann Haydon Jones (GBR)	Yola Ramirez Ochoa (MEX)	6-2, 6-1
+1960	Darlene Hard (USA)	Yola Ramirez Ochoa (MEX)	6-3, 6-4
+1959	Christine Truman Janes (GBR)	Zsuzsa Kormoczy (HUN)	6-4, 7-5
+1958	Zsuzsa Kormoczy (HUN)	Shirley Bloomer Brasher (GBR)	6-4, 1-6, 6-2
+1957	Shirley Bloomer Brasher (GBR)	Dorothy Head Knode (USA)	6-1, 6-3
+1956	Althea Gibson (USA)	Angela Mortimer Barrett (GBR)	6-0, 12-10
+1955	Angela Mortimer Barrett (GBR)	Dorothy Head Knode (USA)	2-6, 7-5, 10-8
+1954	Maureen Connolly Brinker (USA)	Ginette Bucaille (FRA)	6-4, 6-1
+1953	Maureen Connolly Brinker (USA)	Doris Hart (USA)	6-2, 6-4
+1952	Doris Hart (USA)	Shirley Fry Irvin (USA)	6-4, 6-4
+1951	Shirley Fry Irvin (USA)	Doris Hart (USA)	6-3, 3-6, 6-3
+1950	Doris Hart (USA)	Patricia Canning Todd (USA)	6-4, 4-6, 6-2
+1949	Margaret Osborne duPont (USA)	Nelly Adamson Landry (FRA)	7-5, 6-2
+1948	Nelly Adamson Landry (FRA)	Shirley Fry Irvin (USA)	6-2, 0-6, 6-0
+1947	Patricia Canning Todd (USA)	Doris Hart (USA)	6-3, 3-6, 6-4
+1946	Margaret Osborne duPont (USA)	Pauline Betz Addie (USA)	1-6, 8-6, 7-5
+1945	Lolette Payot (SUI)	Simone Iribarne Lafargue ()	6-3, 6-4
+1944	Raymonde Jones Veber (FRA)	Jacqueline Patorni ()	6-4, 9-7
+1943	Simone Iribarne Lafargue (FRA)	Alice Weiwers ()	6-1, 7-5
+1942	Alice Weiwers (LUX)	Lolette Payot ()	6-4, 6-4
+1941	Alice Weiwers (LUX)	Anne-Marie Seghers ()	6-3, 6-0
+1939	Simone Mathieu (FRA)	Jadwiga Jedrzejowska (POL)	6-3, 8-6
+1938	Simone Mathieu (FRA)	Nelly Adamson Landry (FRA)	6-0, 6-3
+1937	Hilde Krahwinkel Sperling (GER)	Simone Mathieu (FRA)	6-2, 6-4
+1936	Hilde Krahwinkel Sperling (GER)	Simone Mathieu (FRA)	6-3, 6-4
+1935	Hilde Krahwinkel Sperling (GER)	Simone Mathieu (FRA)	6-2, 6-1
+1934	Margaret Scriven Vivian (GBR)	Helen Jacobs (USA)	7-5, 4-6, 6-1
+1933	Margaret Scriven Vivian (GBR)	Simone Mathieu (FRA)	6-2, 4-6, 6-4
+1932	Helen Wills Moody (USA)	Simone Mathieu (FRA)	7-5, 6-1
+1931	Cilly Aussem (GER)	Betty Nuthall (GBR)	8-6, 6-1
+1930	Helen Wills Moody (USA)	Helen Jacobs (USA)	6-2, 6-1
+1929	Helen Wills Moody (USA)	Simone Mathieu (FRA)	6-3, 6-4
+1928	Helen Wills Moody (USA)	Eileen Bennett Whittingstall (GBR)	6-1, 6-2
+1927	Kea Bouman (NED)	Irene Bowder Peacock (ZAF)	6-2, 6-4
+1926	Suzanne Lenglen (FRA)	Mary Browne (USA)	6-1, 6-0
+1925	Suzanne Lenglen (FRA)	Kitty McKane Godfree (GBR)	6-1, 6-2
+1924	Emilienne Didi Vlasto (FRA)	Jeanne Vaussard (FRA)	6-2, 6-3
+1923	Suzanne Lenglen (FRA)	Germaine Golding (FRA)	6-1, 6-4
+1922	Suzanne Lenglen (FRA)	Germaine Golding (FRA)	6-4, 6-2
+1921	Suzanne Lenglen (FRA)	Germaine Golding (FRA)	walkover
+1920	Suzanne Lenglen (FRA)	Marguerite Broquedis (FRA)	6-1, 7-5
+1914	Marguerite Broquedis (FRA)	Suzanne Lenglen (FRA)	5-7, 6-4, 6-3
+1913	Marguerite Broquedis (FRA)	Jeanne Matthey (FRA)	6-3, 6-3
+1912	Jeanne Matthey (FRA)	Marie Danet (FRA)	6-2, 7-5
+1911	Jeanne Matthey (FRA)	Marguerite Broquedis (FRA)	6-2, 7-5
+1910	Jeanne Matthey (FRA)	Marguerite Broquedis (FRA)	
+1909	Jeanne Matthey (FRA)	Abeille Villard Gallay (FRA)	10-8, 6-4
+1908	Kate Gillou-Fenwick (FRA)	Pean (FRA)	6-2, 6-2
+1907	Comtesse Therese Villard de Kermel (FRA)	Catherine d'Aliney d'Elva (FRA)	6-1, retired
+1906	Kate Gillou-Fenwick (FRA)	Mac Veagh (FRA)	N/A
+1905	Kate Gillou (FRA)	Yvonne de Pfeffel (FRA)	6-0, 11-9
+1904	Kate Gillou (FRA)	Adine Masson (FRA)	N/A
+1903	Adine Masson (FRA)	Kate Gillou (FRA)	6-0, 6-8, 6-0
+1902	Adine Masson (FRA)	P Girod (FRA)	6-0, 6-1
+1901	P Girod (FRA)	Leroux (FRA)	6-1, 6-1
+1900	Helene Prevost (FRA)	N/A ()	N/A
+1899	Adine Masson (FRA)	N/A ()	N/A
+1898	Adine Masson (FRA)	N/A ()	N/A
+1897	Adine Masson (FRA)	P Girod (FRA)	6-3, 6-1

@@ -1,0 +1,96 @@
+YEAR	WINNER	RUNNER-UP	SCORE
+2021	Naomi (JPN)	Jennifer Brady (USA)	6-4, 6-3
+2020	Sofia Kenin (USA)	Garbine Muguruza (ESP)	4-6, 6-2, 6-2
+2019	Naomi Osaka (JPN)	Petra Kvitova (CZE)	7-6(2), 5-7, 6-4
+2018	Caroline Wozniacki (DEN)	Simona Halep (ROU)	7-6(2), 3-6, 6-4
+2017	Serena Williams (USA)	Venus Williams (USA)	6-4, 6-4
+2016	Angelique Kerber (GER)	Serena Williams (USA)	6-4, 3-6, 6-4
+2015	Serena Williams (USA)	Maria Sharapova (RUS)	6-3, 7-6(5)
+2014	Li Na (CHN)	Dominika Cibulkova (SVK)	7-6, 6-0
+2013	Victoria Azarenka (BLR)	Li Na (CHN)	4-6, 6-4, 6-3
+2012	Victoria Azarenka (BLR)	Maria Sharapova (RUS)	6-3, 6-0
+2011	Kim Clijsters (BEL)	Li Na (CHN)	3-6, 6-3, 6-3
+2010	Serena Williams (USA)	Justine Henin (BEL)	6-4, 3-6, 6-2
+2009	Serena Williams (USA)	Dinara Safina (RUS)	6-0, 6-3
+2008	Maria Sharapova (RUS)	Ana Ivanovic (SRB)	7-5, 6-3
+2007	Serena Williams (USA)	Maria Sharapova (RUS)	6-1, 6-2
+2006	Amelie Mauresmo (FRA)	Justine Henin (BEL)	6-1, 2-0, retired
+2005	Serena Williams (USA)	Lindsay Davenport (USA)	2-6, 6-3, 6-0
+2004	Justine Henin (BEL)	Kim Clijsters (BEL)	6-3, 4-6, 6-3
+2003	Serena Williams (USA)	Venus Williams (USA)	7-6(4), 3-6, 6-4
+2002	Jennifer Capriati (USA)	Martina Hingis (SUI)	4-6, 7-6(7), 6-2
+2001	Jennifer Capriati (USA)	Martina Hingis (SUI)	6-4, 6-3
+2000	Lindsay Davenport (USA)	Martina Hingis (SUI)	6-2, 7-5
+1999	Martina Hingis (SUI)	Amelie Mauresmo (FRA)	6-2, 6-3
+1998	Martina Hingis (SUI)	Conchita Martinez (ESP)	6-3, 6-3
+1997	Martina Hingis (SUI)	Mary Pierce (FRA)	6-2, 6-2
+1996	Monica Seles (USA)	Anke Huber (GER)	6-4, 6-1
+1995	Mary Pierce (FRA)	Arantxa Sanchez Vicario (ESP)	6-3, 6-2
+1994	Steffi Graf (GER)	Arantxa Sanchez Vicario (ESP)	6-0, 6-2
+1993	Monica Seles (YUG)	Steffi Graf (GER)	4-6, 6-3, 6-2
+1992	Monica Seles (YUG)	Mary Joe Fernandez (USA)	6-2, 6-3
+1991	Monica Seles (YUG[l])	Jana Novotna (TCH)	5-7, 6-3, 6-1
+1990	Steffi Graf (FRG)	Mary Joe Fernandez (USA)	6-3, 6-4
+1989	Steffi Graf (FRG)	Helena Sukova (TCH)	6-4, 6-4
+1988	Steffi Graf (FRG)	Chris Evert (USA)	6-1, 7-6(3)
+1987	Hana Mandlikova (TCH)	Martina Navratilova (USA)	7-5, 7-6(1)
+1985	Martina Navratilova (USA)	Chris Evert (USA)	6-2, 4-6, 6-2
+1984	Chris Evert (USA)	Helena Sukova (TCH)	6-7(4), 6-1, 6-3
+1983	Martina Navratilova (USA)	Kathy Jordan (USA)	6-2, 7-6(5)
+1982	Chris Evert (USA)	Martina Navratilova (USA)	6-3, 2-6, 6-3
+1981	Martina Navratilova (USA)	Chris Evert (USA)	6-7(4), 6-4, 7-5
+1980	Hana Mandlikova (TCH)	Wendy Turnbull (AUS)	6-0, 7-5
+1979	Barbara Jordan (USA)	Sharon Walsh (USA)	6-3, 6-3
+1978	Chris O'Neil (AUS)	Betsy Nagelsen (USA)	6-3, 7-6(3)
+1977	Kerry Melville Reid (AUS)	Dianne Fromholtz Balestrat (AUS)	7-5, 6-2
+1977	Evonne Goolagong Cawley (AUS)	Helen Gourlay Cawley (AUS)	6-3, 6-0
+1976	Evonne Goolagong Cawley (AUS)	Renata Tomanova (TCH)	6-2, 6-2
+1975	Evonne Goolagong Cawley (AUS)	Martina Navratilova (TCH)	6-3, 6-2
+1974	Evonne Goolagong Cawley (AUS)	Chris Evert (USA)	7-6(5), 4-6, 6-0
+1973	Margaret Court (AUS)	Evonne Goolagong Cawley (AUS)	6-4, 7-5
+1972	Virginia Wade (GBR)	Evonne Goolagong Cawley (AUS)	6-4, 6-4
+1971	Margaret Court (AUS)	Evonne Goolagong Cawley (AUS)	2-6, 7-6(0), 7-5
+1970	Margaret Court (AUS)	Kerry Melville Reid (AUS)	6-1, 6-3
+1969	Margaret Court (AUS)	Billie Jean King (USA)	6-4, 6-1
+1968	Billie Jean King (USA)	Margaret Court (AUS)	6-1, 6-2
+1967	Nancy Richey (USA)	Lesley Turner Bowrey (AUS)	6-1, 6-4
+1966	Margaret Court (AUS)	Nancy Richey (USA)	walkover
+1965	Margaret Court (AUS)	Maria Bueno (BRA)	5-7, 6-4, 5-2, retired
+1964	Margaret Court (AUS)	Lesley Turner Bowrey (AUS)	6-3, 6-2
+1963	Margaret Court (AUS)	Jan Lehane O'Neill (AUS)	6-2, 6-2
+1962	Margaret Court (AUS)	Jan Lehane O'Neill (AUS)	6-0, 6-2
+1961	Margaret Court (AUS)	Jan Lehane O'Neill (AUS)	6-1, 6-4
+1960	Margaret Court (AUS)	Jan Lehane O'Neill (AUS)	7-5, 6-2
+1959	Mary Carter Reitano (AUS)	Renee Schuurman Haygarth (ZAF)	6-2, 6-3
+1958	Angela Mortimer Barrett (GBR)	Lorraine Coghlan Robinson (AUS)	6-3, 6-4
+1957	Shirley Fry Irvin (USA)	Althea Gibson (USA)	6-3, 6-4
+1956	Mary Carter Reitano (AUS)	Thelma Coyne Long (AUS)	3-6, 6-2, 9-7
+1955	Beryl Penrose Collier (AUS)	Thelma Coyne Long (AUS)	6-4, 6-3
+1954	Thelma Coyne Long (AUS)	Jenny Staley Hoad (AUS)	6-3, 6-4
+1953	Maureen Connolly Brinker (USA)	Julie Sampson Haywood (USA)	6-3, 6-2
+1952	Thelma Coyne Long (AUS)	Helen Angwin (AUS)	6-2, 6-3
+1951	Nancye Wynne Bolton (AUS)	Thelma Coyne Long (AUS)	6-1, 7-5
+1950	Louise Brough (USA)	Doris Hart (USA)	6-4, 3-6, 6-4
+1949	Doris Hart (USA)	Nancye Wynne Bolton (AUS)	6-3, 6-4
+1948	Nancye Wynne Bolton (AUS)	Marie Toomey (AUS)	6-3, 6-1
+1947	Nancye Wynne Bolton (AUS)	Nell Hall Hopman (AUS)	6-3, 6-2
+1946	Nancye Wynne Bolton (AUS)	Joyce Fitch (AUS)	6-4, 6-4
+1940	Nancye Wynne Bolton (AUS)	Thelma Coyne Long (AUS)	5-7, 6-4, 6-0
+1939	Emily Hood Westacott (AUS)	Nell Hall Hopman (AUS)	6-1, 6-2
+1938	Dorothy Cheney (USA)	Dorothy Stevenson (AUS)	6-3, 6-2
+1937	Nancye Wynne Bolton (AUS)	Emily Hood Westacott (AUS)	6-3, 5-7, 6-4
+1936	Joan Hartigan Bathurst (AUS)	Nancye Wynne Bolton (AUS)	6-4, 6-4
+1935	Dorothy Round Little (GBR)	Nancy Lyle Glover (AUS)	1-6, 6-1, 6-3
+1934	Joan Hartigan Bathurst (AUS)	Margaret Molesworth (AUS)	6-1, 6-4
+1933	Joan Hartigan Bathurst (AUS)	Coral Buttsworth (AUS)	6-4, 6-3
+1932	Coral Buttsworth (AUS)	Kathrine Le Mesurier (AUS)	9-7, 6-4
+1931	Coral Buttsworth (AUS)	Marjorie Cox Crawford (AUS)	1-6, 6-3, 6-4
+1930	Daphne Akhurst Cozens (AUS)	Sylvia Lance Harper (AUS)	10-8, 2-6, 7-5
+1929	Daphne Akhurst Cozens (AUS)	Louise Bickerton (AUS)	6-1, 5-7, 6-2
+1928	Daphne Akhurst Cozens (AUS)	Esna Boyd Robertson (AUS)	7-5, 6-2
+1927	Esna Boyd Robertson (AUS)	Sylvia Lance Harper (AUS)	5-7, 6-1, 6-2
+1926	Daphne Akhurst Cozens (AUS)	Esna Boyd Robertson (AUS)	6-1, 6-3
+1925	Daphne Akhurst Cozens (AUS)	Esna Boyd Robertson (AUS)	1-6, 8-6, 6-4
+1924	Sylvia Lance Harper (AUS)	Esna Boyd Robertson (AUS)	6-3, 3-6, 8-6
+1923	Margaret Molesworth (AUS)	Esna Boyd Robertson (AUS)	6-1, 7-5
+1922	Margaret Molesworth (AUS)	Esna Boyd Robertson (AUS)	6-3, 10-8
